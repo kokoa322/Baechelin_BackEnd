@@ -2,7 +2,9 @@
 ![배너](https://user-images.githubusercontent.com/90380269/181918617-1668bd04-8beb-4f60-91a0-d5e5c3d2dbb8.png)
 
 
-<img width="597" alt="스크린샷 2022-08-11 13 02 07" src="https://user-images.githubusercontent.com/105048235/184063370-2e7e6de2-03c4-427d-bd75-18958fa1239e.png">
+
+
+<img width="585" alt="스크린샷 2022-08-11 13 16 08" src="https://user-images.githubusercontent.com/105048235/184063973-40566a96-b9ee-4a5c-9806-f26a523523af.png">
 
 
 
